@@ -9,7 +9,7 @@ A simple plugin created by Louis_292 to customize and personalize your server ch
 
 - Add Chat Color and Player Name feature
 
-## Dependance:
+## Dependency:
 The plugin depend on ``ProtocolLib`` you can download this plugin [here](https://www.spigotmc.org/resources/protocollib.1997/)
 
 ## Installation
