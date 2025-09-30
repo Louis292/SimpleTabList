@@ -1,0 +1,12 @@
+# Simple TabList plugin created by Louis_292
+# This is the config file
+
+# TabList headers lines, you can use {PLAYER_NAME}
+header:
+  - "&aYourMinecraftServer"
+  - "&eA Custom server !"
+
+# TabList footers lines, you can use {PLAYER_NAME}
+footer:
+  - "&aPlayer: {PLAYER_NAME}"
+  - "&aConnected"

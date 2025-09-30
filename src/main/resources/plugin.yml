@@ -1,0 +1,6 @@
+name: SimpleTabList
+version: '1.0'
+main: fr.Louis292.simpleTabList.SimpleTabList
+author: Louis_292
+depend:
+  - ProtocolLib
