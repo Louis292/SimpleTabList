@@ -1,7 +1,7 @@
 # Simple TabList Plugin V1.0 [📖]
 ## Introduction
 
-A simple plugin created by Louis_292 to customize and personalize your server chat.
+A simple plugin created by Louis_292 to customize and personalize your server TabList.
 
 ## Features
 
